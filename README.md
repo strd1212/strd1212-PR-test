@@ -5,3 +5,4 @@
 | 이름 | 아이디 | 저장소 |
 |------|-------|-------|
 |[내이름]|[내아이디]|[내아이디]/[GitHubID]-PR-test|
+| Seo seung jun | langk84 | langk84/langk84-PR-test |
